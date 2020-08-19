@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="10" tvg-name="Tc Televisión" tvg-country="EC" tvg-logo="" group-title="Ecuador",TC Televisión
-http://iptv.deluxeplay.live:80/live/hfdbtaso/6sTwL137vo/1577.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="5" tvg-name="RTS" tvg-country="EC" tvg-logo="http://cdn.rts.com.ec/2018/v3/images/logo.png" group-title="Ecuador",RTS
-http://173.212.247.99/hls/tvec3.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="4" tvg-name="Teleamazonas" tvg-country="EC" tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="Ecuador",Teleamazonas
-https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="4" tvg-name="Teleamazonas" tvg-country="EC" tvg-logo="" group-title="Ecuador",Teleamazonas HD
-http://173.212.247.99/hls/tvec4.m3u8?checkedby:iptvcat.com
